@@ -1,2 +1,3 @@
 # matury
-Rozwiązania matur z informatyki
+Rozwiązania wybranych zadan matururalnych z informatyki.
+Zadania zostały zrealizowane w ramach udzielania korepetycji.
